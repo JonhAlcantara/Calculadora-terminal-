@@ -5,6 +5,8 @@ utilizados comandos:
 #chmod 644 para permitir edição, leitura e execução
 linguagem em python / arquivo executavel em py / esse arquivo somente leitura
 
+#chmod 744 calculadora.sh para execução apenas por proprietario 
+
 #utilizado codigo para rodar arquivo sh. reconhecendo a liguagem python:
 #!/data/data/com.termux/files/usr/bin/bash
 clear
